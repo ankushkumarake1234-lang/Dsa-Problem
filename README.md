@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/ankushkumarake1234-lang/Dsa-Problem/tree/master/0260-single-number-iii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ankushkumarake1234-lang/Dsa-Problem/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/ankushkumarake1234-lang/Dsa-Problem/tree/master/0704-binary-search) |
+| [2104-sum-of-subarray-ranges](https://github.com/ankushkumarake1234-lang/Dsa-Problem/tree/master/2104-sum-of-subarray-ranges) |
 ## Binary Search
 |  |
 | ------- |
@@ -38,4 +39,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/ankushkumarake1234-lang/Dsa-Problem/tree/master/0191-number-of-1-bits) |
 | [0260-single-number-iii](https://github.com/ankushkumarake1234-lang/Dsa-Problem/tree/master/0260-single-number-iii) |
 | [0476-number-complement](https://github.com/ankushkumarake1234-lang/Dsa-Problem/tree/master/0476-number-complement) |
+## Stack
+|  |
+| ------- |
+| [2104-sum-of-subarray-ranges](https://github.com/ankushkumarake1234-lang/Dsa-Problem/tree/master/2104-sum-of-subarray-ranges) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2104-sum-of-subarray-ranges](https://github.com/ankushkumarake1234-lang/Dsa-Problem/tree/master/2104-sum-of-subarray-ranges) |
 <!---LeetCode Topics End-->
