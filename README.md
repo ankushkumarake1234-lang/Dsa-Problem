@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/ankushkumarake1234-lang/Dsa-Problem/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/ankushkumarake1234-lang/Dsa-Problem/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/ankushkumarake1234-lang/Dsa-Problem/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/ankushkumarake1234-lang/Dsa-Problem/tree/master/0191-number-of-1-bits) |
@@ -47,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2104-sum-of-subarray-ranges](https://github.com/ankushkumarake1234-lang/Dsa-Problem/tree/master/2104-sum-of-subarray-ranges) |
+## Math
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/ankushkumarake1234-lang/Dsa-Problem/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
