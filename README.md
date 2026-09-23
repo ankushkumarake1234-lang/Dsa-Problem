@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0227-basic-calculator-ii](https://github.com/ankushkumarake1234-lang/Dsa-Problem/tree/master/0227-basic-calculator-ii) |
 | [2104-sum-of-subarray-ranges](https://github.com/ankushkumarake1234-lang/Dsa-Problem/tree/master/2104-sum-of-subarray-ranges) |
 ## Monotonic Stack
 |  |
@@ -52,4 +53,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/ankushkumarake1234-lang/Dsa-Problem/tree/master/0029-divide-two-integers) |
+| [0227-basic-calculator-ii](https://github.com/ankushkumarake1234-lang/Dsa-Problem/tree/master/0227-basic-calculator-ii) |
+## String
+|  |
+| ------- |
+| [0227-basic-calculator-ii](https://github.com/ankushkumarake1234-lang/Dsa-Problem/tree/master/0227-basic-calculator-ii) |
 <!---LeetCode Topics End-->
