@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/ankushkumarake1234-lang/Dsa-Problem/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/ankushkumarake1234-lang/Dsa-Problem/tree/master/0704-binary-search) |
 | [2104-sum-of-subarray-ranges](https://github.com/ankushkumarake1234-lang/Dsa-Problem/tree/master/2104-sum-of-subarray-ranges) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ankushkumarake1234-lang/Dsa-Problem/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Binary Search
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/ankushkumarake1234-lang/Dsa-Problem/tree/master/0029-divide-two-integers) |
 | [0227-basic-calculator-ii](https://github.com/ankushkumarake1234-lang/Dsa-Problem/tree/master/0227-basic-calculator-ii) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ankushkumarake1234-lang/Dsa-Problem/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## String
 |  |
 | ------- |
