@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0227-basic-calculator-ii](https://github.com/ankushkumarake1234-lang/Dsa-Problem/tree/master/0227-basic-calculator-ii) |
 | [2104-sum-of-subarray-ranges](https://github.com/ankushkumarake1234-lang/Dsa-Problem/tree/master/2104-sum-of-subarray-ranges) |
+| [2390-removing-stars-from-a-string](https://github.com/ankushkumarake1234-lang/Dsa-Problem/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -60,4 +61,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0227-basic-calculator-ii](https://github.com/ankushkumarake1234-lang/Dsa-Problem/tree/master/0227-basic-calculator-ii) |
+| [2390-removing-stars-from-a-string](https://github.com/ankushkumarake1234-lang/Dsa-Problem/tree/master/2390-removing-stars-from-a-string) |
+## Simulation
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/ankushkumarake1234-lang/Dsa-Problem/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
