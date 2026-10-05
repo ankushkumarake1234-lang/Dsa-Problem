@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/ankushkumarake1234-lang/Dsa-Problem/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ankushkumarake1234-lang/Dsa-Problem/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ankushkumarake1234-lang/Dsa-Problem/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0217-contains-duplicate](https://github.com/ankushkumarake1234-lang/Dsa-Problem/tree/master/0217-contains-duplicate) |
 | [0260-single-number-iii](https://github.com/ankushkumarake1234-lang/Dsa-Problem/tree/master/0260-single-number-iii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ankushkumarake1234-lang/Dsa-Problem/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/ankushkumarake1234-lang/Dsa-Problem/tree/master/0704-binary-search) |
@@ -66,4 +67,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2390-removing-stars-from-a-string](https://github.com/ankushkumarake1234-lang/Dsa-Problem/tree/master/2390-removing-stars-from-a-string) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/ankushkumarake1234-lang/Dsa-Problem/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/ankushkumarake1234-lang/Dsa-Problem/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
