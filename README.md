@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/ankushkumarake1234-lang/Dsa-Problem/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/ankushkumarake1234-lang/Dsa-Problem/tree/master/0260-single-number-iii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ankushkumarake1234-lang/Dsa-Problem/tree/master/0540-single-element-in-a-sorted-array) |
+| [0554-brick-wall](https://github.com/ankushkumarake1234-lang/Dsa-Problem/tree/master/0554-brick-wall) |
 | [0704-binary-search](https://github.com/ankushkumarake1234-lang/Dsa-Problem/tree/master/0704-binary-search) |
 | [2104-sum-of-subarray-ranges](https://github.com/ankushkumarake1234-lang/Dsa-Problem/tree/master/2104-sum-of-subarray-ranges) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ankushkumarake1234-lang/Dsa-Problem/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/ankushkumarake1234-lang/Dsa-Problem/tree/master/0217-contains-duplicate) |
+| [0554-brick-wall](https://github.com/ankushkumarake1234-lang/Dsa-Problem/tree/master/0554-brick-wall) |
 ## Sorting
 |  |
 | ------- |
