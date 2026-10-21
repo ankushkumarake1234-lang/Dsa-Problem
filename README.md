@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0554-brick-wall](https://github.com/ankushkumarake1234-lang/Dsa-Problem/tree/master/0554-brick-wall) |
 | [0560-subarray-sum-equals-k](https://github.com/ankushkumarake1234-lang/Dsa-Problem/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/ankushkumarake1234-lang/Dsa-Problem/tree/master/0704-binary-search) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ankushkumarake1234-lang/Dsa-Problem/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/ankushkumarake1234-lang/Dsa-Problem/tree/master/2104-sum-of-subarray-ranges) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ankushkumarake1234-lang/Dsa-Problem/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Binary Search
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/ankushkumarake1234-lang/Dsa-Problem/tree/master/0029-divide-two-integers) |
 | [0227-basic-calculator-ii](https://github.com/ankushkumarake1234-lang/Dsa-Problem/tree/master/0227-basic-calculator-ii) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ankushkumarake1234-lang/Dsa-Problem/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ankushkumarake1234-lang/Dsa-Problem/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## String
 |  |
@@ -104,4 +106,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/ankushkumarake1234-lang/Dsa-Problem/tree/master/0560-subarray-sum-equals-k) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ankushkumarake1234-lang/Dsa-Problem/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ankushkumarake1234-lang/Dsa-Problem/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ankushkumarake1234-lang/Dsa-Problem/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
