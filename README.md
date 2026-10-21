@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/ankushkumarake1234-lang/Dsa-Problem/tree/master/0076-minimum-window-substring) |
 | [0227-basic-calculator-ii](https://github.com/ankushkumarake1234-lang/Dsa-Problem/tree/master/0227-basic-calculator-ii) |
 | [2390-removing-stars-from-a-string](https://github.com/ankushkumarake1234-lang/Dsa-Problem/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/ankushkumarake1234-lang/Dsa-Problem/tree/master/0076-minimum-window-substring) |
 | [0217-contains-duplicate](https://github.com/ankushkumarake1234-lang/Dsa-Problem/tree/master/0217-contains-duplicate) |
 | [0554-brick-wall](https://github.com/ankushkumarake1234-lang/Dsa-Problem/tree/master/0554-brick-wall) |
 | [0560-subarray-sum-equals-k](https://github.com/ankushkumarake1234-lang/Dsa-Problem/tree/master/0560-subarray-sum-equals-k) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/ankushkumarake1234-lang/Dsa-Problem/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/ankushkumarake1234-lang/Dsa-Problem/tree/master/0239-sliding-window-maximum) |
 ## Heap (Priority Queue)
 |  |
