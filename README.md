@@ -121,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ankushkumarake1234-lang/Dsa-Problem/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/ankushkumarake1234-lang/Dsa-Problem/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
