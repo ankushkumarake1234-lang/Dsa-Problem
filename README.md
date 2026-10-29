@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/ankushkumarake1234-lang/Dsa-Problem/tree/master/0076-minimum-window-substring) |
+| [0146-lru-cache](https://github.com/ankushkumarake1234-lang/Dsa-Problem/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/ankushkumarake1234-lang/Dsa-Problem/tree/master/0217-contains-duplicate) |
 | [0554-brick-wall](https://github.com/ankushkumarake1234-lang/Dsa-Problem/tree/master/0554-brick-wall) |
 | [0560-subarray-sum-equals-k](https://github.com/ankushkumarake1234-lang/Dsa-Problem/tree/master/0560-subarray-sum-equals-k) |
@@ -126,8 +127,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/ankushkumarake1234-lang/Dsa-Problem/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/ankushkumarake1234-lang/Dsa-Problem/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0146-lru-cache](https://github.com/ankushkumarake1234-lang/Dsa-Problem/tree/master/0146-lru-cache) |
 ## Two Pointers
 |  |
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/ankushkumarake1234-lang/Dsa-Problem/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/ankushkumarake1234-lang/Dsa-Problem/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/ankushkumarake1234-lang/Dsa-Problem/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
